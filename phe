@@ -31,7 +31,7 @@ function onKeyPress(inputObject, chat)
             game.StarterGui:SetCore("SendNotification", {
                 Title = "Invis Off";
                 Duration = 1;
-                Text = "";
+                Text = "By Phoomphat";
             })
         end
     end
